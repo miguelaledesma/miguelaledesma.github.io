@@ -1,12 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - miguelaledesma
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - miguelaledesma/Crypto-Tracker-App
+  - miguelaledesma/Dad-Joke-API
+  - miguelaledesma/blog-site
+  - miguelaledesma/advice-app
+  - miguelaledesma/Dealer-prep-app
+  - miguelaledesma/github-usercard
+
+github_in:
+  - miguelaledesma/underdog-devs-be-a
+  - miguelaledesma/underdog-devs-fe-a
