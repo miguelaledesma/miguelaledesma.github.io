@@ -34,11 +34,11 @@ For Pocket Crypto, I developed a Full-Stack React application to track live cryp
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    The application featured a user-friendly interface designed using React, JavaScript, and Material UI components. To retrieve real-time data, I implemented Axios to fetch coin information from the CoinGecko API.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/pocketcrypto.png" title="homepage" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
