@@ -7,9 +7,9 @@ importance: 2
 category: work
 ---
 
-As a software engineer at Nodestead Inc., I have had the opportunity to work on a variety of projects that have contributed to the development of a hosting service startup. One of my primary focuses has been the creation of reusable components and functionality using React, JavaScript, and Styled Components. Not only have these efforts helped to streamline the development process, but they have also resulted in a 50% reduction in development cycle time.
+As a software engineer at Nodestead Inc., I had the opportunity to make valuable contributions to the development of a hosting service startup. One of my main areas of focus was the creation of reusable components and functionality using React, JavaScript, and Styled Components. This not only streamlined the development process but also resulted in a 50% reduction in development cycle time.
 
-The development of a footer for the homepage was enhanced by the reduction in development time, allowing for the successful design and development of the component using React, starting from a wireframe and culminating in a fully functional and animated version.
+Building upon this success, I was able to effectively utilize the gained efficiency in the design and development of a footer for the homepage.
 
 <div class="caption">
   
@@ -37,4 +37,4 @@ One of the projects that I am particularly proud of is the creation of an intern
     User onboarding 
 </div>
 
-Overall, my experience at Nodestead Inc. has been a rewarding one that has allowed me to demonstrate my skills in software development, problem-solving, and teamwork. It has also given me the opportunity to further my passion for software engineering and to work on projects that have made a tangible impact on the company and its users.
+Overall, my experience at Nodestead Inc. has been a rewarding one that has allowed me to demonstrate my skills in software development, problem-solving, and teamwork. It also gave me the opportunity to further my passion for software engineering and to work on projects that have made a tangible impact on the company and its users.
