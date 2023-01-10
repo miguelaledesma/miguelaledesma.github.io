@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nodestead
-description: a project with a background image
+description: hosting provider for Urbit
 img: assets/img/nodesteadlogo_black.png
 importance: 2
 category: work

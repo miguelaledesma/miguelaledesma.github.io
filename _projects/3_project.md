@@ -1,9 +1,9 @@
 ---
 layout: page
 title: underdogdevs
-description: a project that redirects to another website
+description: non profit organization
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://www.underdogdevs.org/
 importance: 3
 category: work
 ---
