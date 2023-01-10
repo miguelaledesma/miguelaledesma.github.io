@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Dealer Prep
-description: a project with no image
+description: a project created for friends who are buying a car and need some tips!
+redirect: https://dealerprep-app.vercel.app/
 img:
 importance: 4
 category: fun

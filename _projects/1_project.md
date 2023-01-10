@@ -2,7 +2,7 @@
 layout: page
 title: Pocket Crypto
 description: informational cryptocurrency application
-img: assets/img/12.jpg
+img: assets/img/cryptothumb.png
 importance: 1
 category: work
 ---

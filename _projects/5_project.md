@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Advice
-description: a project with a background image
+description: a friendly app that gives you advice when you need it!
+redirect: https://giveme-advice-react.netlify.app/
 # img: assets/img/1.jpg
 importance: 3
 category: fun

@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Dad Jokes
-description: another without an image
+description: a fully functional api ready to be used to display some awesome puns :)
 img:
+redirect: https://github.com/miguelaledesma/Dad-Joke-API
 importance: 3
 category: fun
 ---
