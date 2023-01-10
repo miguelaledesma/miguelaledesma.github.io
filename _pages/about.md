@@ -22,7 +22,7 @@ My name is Miguel Ledesma and I am a software engineer with experience in develo
 
 In my past projects, I have utilized a variety of technologies including React, Node.js, and MongoDB to create functional and visually appealing websites and applications.
 
-When I'm not coding, you can find me at the gym or trying to perfect making the perfect shot of espresso. Thank you for visiting my website, I hope you enjoy exploring my work as much as I enjoyed creating it.
+When I'm not coding, you can find me at the gym or trying to make the perfect shot of espresso. Thank you for visiting my website, I hope you enjoy exploring my work as much as I enjoyed creating it.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
