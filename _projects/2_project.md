@@ -3,7 +3,7 @@ layout: page
 title: Nodestead
 description: hosting provider for Urbit
 img: assets/img/nodesteadlogo_black.png
-importance: 2
+importance: 1
 category: work
 ---
 
@@ -37,4 +37,4 @@ One of the projects that I am particularly proud of is the creation of an intern
     User onboarding 
 </div>
 
-Overall, my experience at Nodestead Inc. has been a rewarding one that has allowed me to demonstrate my skills in software development, problem-solving, and teamwork. It also gave me the opportunity to further my passion for software engineering and to work on projects that have made a tangible impact on the company and its users.
+Overall, my experience at <a href = "https://www.nodestead.dev/" target = "_blank">Nodestead Inc.</a> has been a rewarding one that has allowed me to demonstrate my skills in software development, problem-solving, and teamwork. It also gave me the opportunity to further my passion for software engineering and to work on projects that have made a tangible impact on the company and its users.

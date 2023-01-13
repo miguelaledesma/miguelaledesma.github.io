@@ -2,12 +2,12 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: A peek inside my github
+description: a peek inside my github
 nav: true
 nav_order: 3
 ---
 
-## GitHub User Stats
+## github stats
 
 {% if site.data.repositories.github_users %}
 
@@ -20,7 +20,7 @@ nav_order: 3
 
 ---
 
-## GitHub Repositories
+## github repositories
 
 {% if site.data.repositories.github_repos %}
 
@@ -31,7 +31,7 @@ nav_order: 3
 </div>
 {% endif %}
 ---
-## Volunteer Contribution Github Repos
+## contributions
 
 {% if site.data.repositories.github_in %}
 

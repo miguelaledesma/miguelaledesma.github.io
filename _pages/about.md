@@ -22,7 +22,7 @@ My name is Miguel Ledesma and I am a software engineer with experience in develo
 
 In my past projects, I have utilized a variety of technologies including Javascript, React, Node.js libraries and frameworks, PostgreSQL and MongoDB to create functional and visually appealing websites and applications.
 
-I am constantly seeking to expand my knowledge and skills by keeping up-to-date with the latest developments and trends in the field
+I am constantly seeking to expand my knowledge and skills by keeping up-to-date with the latest developments and trends in the field.
 
 When I'm not coding, you can find me at the gym or trying to make the perfect shot of espresso. Thank you for visiting my website, I hope you enjoy exploring my work as much as I enjoyed creating it.
 

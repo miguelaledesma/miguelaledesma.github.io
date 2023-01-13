@@ -49,3 +49,5 @@ For Pocket Crypto, I developed a Full-Stack React application to track live cryp
 To retrieve real-time data, I implemented Axios to fetch coin information from the CoinGecko API. On the backend, I utilized Express.js to handle responses from the News API and implemented dynamic rendering in React.js to display the news articles on the frontend.
 
 This project allowed me to demonstrate my proficiency in Full-Stack Development, including my expertise in technologies such as React, JavaScript, and Express.js, as well as my ability to work with APIs and create dynamic frontend features.
+
+View the live app <a href = "https://pocketcrypto.netlify.app/" target = "_blank">here</a>

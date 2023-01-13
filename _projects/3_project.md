@@ -1,10 +1,10 @@
 ---
 layout: page
-title: underdogdevs
+title: Underdogdevs
 description: non profit organization
 img: assets/img/underdogdevs-01.png
 # redirect: https://www.underdogdevs.org/
-importance: 3
+importance: 2
 category: work
 ---
 
