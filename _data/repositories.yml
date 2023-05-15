@@ -3,11 +3,11 @@ github_users:
 
 github_repos:
   - miguelaledesma/Crypto-Tracker-App
-  - miguelaledesma/Dad-Joke-API
+  - miguelaledesma/Spendify
   - miguelaledesma/blog-site
   - miguelaledesma/advice-app
   - miguelaledesma/Dealer-prep-app
-  - miguelaledesma/github-usercard
+  - miguelaledesma/breaking-bad-api
 
 github_in:
   - miguelaledesma/underdog-devs-be-a
